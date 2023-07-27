@@ -1,4 +1,3 @@
-os
 json
 requests
 discord-py-interactions
