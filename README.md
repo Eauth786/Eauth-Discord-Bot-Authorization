@@ -17,10 +17,10 @@ Installation
 To install, you can just run the following commands:
 
 ```bash
-    $ git clone https://github.com/Eauth786/Eauth-Discord-Bot-Authorization.git
-    $ cd Eauth-Discord-Bot-Authorization/
-    $ pip install -r requirements.txt
-    $ python3 main.py
+$ git clone https://github.com/Eauth786/Eauth-Discord-Bot-Authorization.git
+$ cd Eauth-Discord-Bot-Authorization/
+$ pip install -r requirements.txt
+$ python3 main.py
 ```
 
 Configuration
