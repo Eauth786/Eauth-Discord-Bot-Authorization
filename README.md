@@ -16,8 +16,7 @@ Installation
 
 To install, you can just run the following commands:
 
-.. code:: sh
-
+```bash
     $ git clone https://github.com/Eauth786/Eauth-Discord-Bot-Authorization.git
     $ cd Eauth-Discord-Bot-Authorization/
     $ pip install -r requirements.txt
@@ -29,7 +28,6 @@ Configuration
 Navigate to `eauth.py`, and fill these lines of code:
 
 ```python
-
-    BOT_TOKEN = '' # Your Discord bot token here
-    APP_KEY = '' # Your Eauth application key here
-    ACC_KEY = '' # Your Eauth account key here
+BOT_TOKEN = '' # Your Discord bot token here
+APP_KEY = '' # Your Eauth application key here
+ACC_KEY = '' # Your Eauth account key here
