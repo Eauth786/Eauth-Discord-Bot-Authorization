@@ -21,6 +21,7 @@ To install, you can just run the following commands:
     $ cd Eauth-Discord-Bot-Authorization/
     $ pip install -r requirements.txt
     $ python3 main.py
+```
 
 Configuration
 -------------
@@ -31,3 +32,4 @@ Navigate to `eauth.py`, and fill these lines of code:
 BOT_TOKEN = '' # Your Discord bot token here
 APP_KEY = '' # Your Eauth application key here
 ACC_KEY = '' # Your Eauth account key here
+```
